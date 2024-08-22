@@ -1,5 +1,4 @@
-// SURYAKANT SHARMA
-// 21730823
+//Vishwas Khandelwal 17036567106
 // AIM:- To fit a nth order polynomial function in given data points using SCILAB INBUILT command.
 
 
