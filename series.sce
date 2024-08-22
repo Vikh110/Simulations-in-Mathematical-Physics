@@ -1,5 +1,4 @@
-// SURYAKANT SHARMA
-// 21730823
+// Vishwas Khandelwal 17036567106
 // Aim:To find the value of sine, cosine and exponential function using the corresponding series expansion.
 // Also plot the functions in given range
 
