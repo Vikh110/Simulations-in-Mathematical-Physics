@@ -1,5 +1,4 @@
-// SURYAKANT SHARMA
-// 21730823
+// Vishwas Khandelwal 17036567106
 // AIM:- To evaluate the integral of any function using Simpson's 3/8 rule and scilab inbuilt command.
 clc()
 clc()
