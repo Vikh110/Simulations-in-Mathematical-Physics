@@ -1,5 +1,4 @@
-//SURYAKANT SHARMA
-//21730823
+// Vishwas Khandelwal 17036567106
 //Aim: To integrate a complex function analytically and scilab inbuilt command
 
 
