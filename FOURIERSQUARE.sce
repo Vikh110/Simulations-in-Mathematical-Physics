@@ -1,5 +1,4 @@
-//SURYAKANT SHARMA
-//21730823
+//Vishwas Khandelwal 17036567106
 //Aim:To evaluate the fourier coefficients of a square wave and plot its fourier expansion for different values of n in the period[-L,L]
 
 
