@@ -1,5 +1,4 @@
-// SURYAKANT SHARMA
-// 21730823
+// Vishwas Khandelwal 17036567106
 // AIM:- To evaluate the integral of given function using TRAPEZOIDAL RULE  and SCILAB INBUILT command. 
 
 
