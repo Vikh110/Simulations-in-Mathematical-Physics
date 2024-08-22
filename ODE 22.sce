@@ -1,5 +1,4 @@
-//SURYAKANT SHARMA
-// 21730823
+// Vishwas Khandelwal 17036567106
 // AIM:-To solve the given second order differential equations using Euler,rk-2,rk-4,scilab inbuilt method and plot the solution.
 //y"+e^(-x)y'=-y
 clc()
