@@ -1,5 +1,4 @@
-// SURYAKANT SHARMA
-// 21730823
+// Vishwas Khandelwal 17036567106
 //Aim:To evaluate the DIRAC DELTA FUNCTION using Simpson's 1/3rd rule and scilab inbuilt commAND
 
 
