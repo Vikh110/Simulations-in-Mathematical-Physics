@@ -1,5 +1,4 @@
-//SURYAKANT SHARMA
-//21730823
+//Vishwas Khandelwal 17036567106
 //Aim:To plot the diffraction pattern spectrum for 1,2,...n slits
 
 
